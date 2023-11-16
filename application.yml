@@ -10,8 +10,8 @@ feign:
   client:
     config:
       default:
-        connectTimeout: 10000
-        readTimeout: 20000
+        connectTimeout: 11111
+        readTimeout: 22222
 
 security:
   oauth2:
