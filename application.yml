@@ -12,6 +12,7 @@ feign:
       default:
         connectTimeout: 11111
         readTimeout: 22222
+        socketTimeout: 33333
 
 security:
   oauth2:
