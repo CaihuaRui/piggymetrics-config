@@ -13,7 +13,7 @@ feign:
         connectTimeout: 11111
         readTimeout: 22222
         socketTimeout: 33333
-        message: {cipher}parbcaezABXS7zdjQVcsQjXD3r3K+uLt3l36jlofQRVQ2KyLHl866HwmiSHbFodQ
+        message: '{cipher}parbcaezABXS7zdjQVcsQjXD3r3K+uLt3l36jlofQRVQ2KyLHl866HwmiSHbFodQ'
 
 security:
   oauth2:
