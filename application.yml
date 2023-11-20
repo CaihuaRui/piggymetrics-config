@@ -14,6 +14,7 @@ feign:
         readTimeout: 22222
         socketTimeout: 33333
         message: '{cipher}2870eb1f504de68ed07bfba36929c12bf52cf33ec6357e365f06f3ad44c35faf93ff8b2d4b35ff86907b724031a2e744b5e46d17f45b464c2da91f5eef349df2'
+        rsaMessage: '{cipher}AQCmhtutkI8dgIFZWSmu5LHtrmTD1dKRlupgEwyhs+HjltlVxawaWpiRmEtISfleEjqQ6ceTc9e5aR0f5emPrT5ak21ROVTOtsdt2+ed4EDJxr1Lt6syd5qTX3Gr22Rkpaa1BQXcaQFcuD4w/UcY48YRAtZC+7L35F+MTNcxIRE5ofrit9P0dTMxiz2NVpPNxJdm5tOyH38+xeoN2PO+unRHxTLsACX7D53Cf1E13Zs1P2bsWHrWBCWY6WdItd2i/Gy6LXQrvAMdXvrbdhWyjMVoScYqvfSobkuybtGOTLaGOjPMuXq/p+Q+tbOnDKBzNHQmkuC67j/sYCjazFVCRjg2DqJUJMrURJDCPJSK/kwcnnJ+LUHwbG29JEw+IWYKevo=,'
 
 security:
   oauth2:
