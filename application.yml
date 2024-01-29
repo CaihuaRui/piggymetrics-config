@@ -13,8 +13,8 @@ feign:
         connectTimeout: 11112
         readTimeout: 22222
         socketTimeout: 33333
-        message: '{cipher}2870eb1f504de68ed07bfba36929c12bf52cf33ec6357e365f06f3ad44c35faf93ff8b2d4b35ff86907b724031a2e744b5e46d17f45b464c2da91f5eef349df2'
-        rsaMessage: '{cipher}AQBDUABlRzaFHBozL9yqPeIMh+lMCVGAEBssTz8xm3XaOXIn4V4xsorWN0pyoqGN1SMLGV9HwHVPQerswrT5auh9E63FafKpeJDJSvR2iQkQbJlEFk556FlEa1QQmDHyjiqqbLxIye77m074ZRVD4SPBHxGmQQCzQzueeGVOmaOD2ijkorrLsYNh2uVkwvNKBqmMsd+RUo9C6JIGWwG9vddjSFGaDVuqCoaUDjMjtNRpHv2lqmhoEIvsTooNBB72a+ygiHhL47qhg2FrJRZMW312wAWG3gP1LZ/nD1nhXeDEyjhAiGAMyS/r+Nq7zfdZXDZSeUeRbAkwCfQuViJWjZi+w4DgfwpAelqOtqvj7J0clfF+W3SxgFFCK5ghPotqPUk='
+        #message: '{cipher}2870eb1f504de68ed07bfba36929c12bf52cf33ec6357e365f06f3ad44c35faf93ff8b2d4b35ff86907b724031a2e744b5e46d17f45b464c2da91f5eef349df2'
+        #rsaMessage: '{cipher}AQBDUABlRzaFHBozL9yqPeIMh+lMCVGAEBssTz8xm3XaOXIn4V4xsorWN0pyoqGN1SMLGV9HwHVPQerswrT5auh9E63FafKpeJDJSvR2iQkQbJlEFk556FlEa1QQmDHyjiqqbLxIye77m074ZRVD4SPBHxGmQQCzQzueeGVOmaOD2ijkorrLsYNh2uVkwvNKBqmMsd+RUo9C6JIGWwG9vddjSFGaDVuqCoaUDjMjtNRpHv2lqmhoEIvsTooNBB72a+ygiHhL47qhg2FrJRZMW312wAWG3gP1LZ/nD1nhXeDEyjhAiGAMyS/r+Nq7zfdZXDZSeUeRbAkwCfQuViJWjZi+w4DgfwpAelqOtqvj7J0clfF+W3SxgFFCK5ghPotqPUk='
 
 security:
   oauth2:
