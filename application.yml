@@ -10,7 +10,7 @@ feign:
   client:
     config:
       default:
-        connectTimeout: 11112
+        connectTimeout: 11111
         readTimeout: 22222
         socketTimeout: 33333
         message: '{cipher}2870eb1f504de68ed07bfba36929c12bf52cf33ec6357e365f06f3ad44c35faf93ff8b2d4b35ff86907b724031a2e744b5e46d17f45b464c2da91f5eef349df2'
